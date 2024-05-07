@@ -36,13 +36,13 @@ StoryDiffusion can create a magic story by generating consistent images and vide
 
 ## 🔥 **Comic Description (each line corresponds to a frame).** 
 
-**At home, reading a newspaper - #At home, the newspaper reveals there's a hidden treasure in the nearby forest.
+- At home, reading a newspaper - #At home, the newspaper reveals there's a hidden treasure in the nearby forest.
 - On the road, approaching the forest - #He drives to the forest, fueled by dreams of discovering the hidden treasure.
 - Encounter in the forest at night - #A tiger suddenly appears on the path, its eyes glowing in the dark forest at night.
 - Frightened in the forest at night - #Startled and very frightened, he opens his mouth in shock, standing frozen in the forest at night.
 - Running through the forest at night - #In a panic, he runs very fast through the dark forest, trying to escape the looming shadows and eerie sounds.
 - Discovery of the house in the forest at night - #As he stumbles through the darkness, he suddenly discovers the treasure house hidden amongst the trees!
-**
+  
 
 ### Comics generation 
 
