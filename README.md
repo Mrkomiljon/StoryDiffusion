@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/HVision-NKU/StoryDiffusion/assets/49511209/f79da6b7-0b3b-4dd7-8dd0-ba0b15306fe6" height=100>
-</p>
+
 
 <div align="center">
   
