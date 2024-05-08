@@ -49,6 +49,7 @@ StoryDiffusion can create a magic story by generating consistent images and vide
 <img width="1151" alt="image" src="https://github.com/Mrkomiljon/StoryDiffusion/assets/92161283/1292b4dc-0257-44c6-ad96-2166c0ee7b86">
 
 
+![image (55)](https://github.com/Mrkomiljon/StoryDiffusion/assets/92161283/54e532f9-8b91-426e-bfc2-190d9d26b662)
 
 ---
 
